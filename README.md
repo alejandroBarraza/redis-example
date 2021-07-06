@@ -1,3 +1,3 @@
 # install
 
-for run this app , run npm install , fun install node dependencies
+for run this app , run npm install for installing node dependencies
